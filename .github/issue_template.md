@@ -20,6 +20,8 @@
   As outras opções não selecionadas ficam apenas com um espaço dentro dos
   colchetes.
   ============================
+  
+  Colocar cidade/estador no titulo. Para pesquisa de localidade ficaria mais facil
 -->
 
 ## Nome completo
