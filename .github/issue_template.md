@@ -26,6 +26,10 @@
 
 <!-- José da Silva. -->
 
+## Localidade
+
+<!-- Cite a cidade onde mora e se tem disponibilidade para mudança para outro lugar em função do emprego. -->
+
 ## Apresentação
 
 <!-- Fale um pouco sobre você e seu histórico -->
