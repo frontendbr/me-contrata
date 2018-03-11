@@ -22,7 +22,7 @@ Um "ganha-ganha" pra todos =)
 (se não estiver em busca de outras oportunidades), e comentar se conseguiu
 ou não o emprego à partir desse repositório.
 
-## Sou uma empresa. Como entrar em contato?
+## Sou uma empresa ou preciso de alguém para um freela. Como entrar em contato?
 
 Clicando na _issue_, você poderá visualizar o Linkedin do(a) profissional
 para adicionar e entrar em contato.
