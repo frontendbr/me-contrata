@@ -28,11 +28,15 @@
 
 ## Localidade
 
-<!-- Cite a cidade onde mora e se tem disponibilidade para mudança para outro lugar em função do emprego. -->
+<!-- Cite a cidade onde mora atualmente. -->
 
 ## Apresentação
 
 <!-- Fale um pouco sobre você e seu histórico -->
+
+## Outras Informações
+
+<!-- Cite sua disponibilidade (de horário, de viagens, de mudança, etc), cursos, palestras. -->
 
 ## Especialidades
 
