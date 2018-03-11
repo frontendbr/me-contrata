@@ -28,7 +28,7 @@
 
 ## Apresentação
 
-<!-- Fale um pouco sobre você e seu histório -->
+<!-- Fale um pouco sobre você e seu histórico -->
 
 ## Especialidades
 
@@ -36,6 +36,7 @@
 - JavaScript
 - HTML
 - CSS
+- PHP
 -->
 
 ## Nível
@@ -51,6 +52,7 @@
 <!--
 - [x] PJ
 - [ ] CLT
+- [ ] Freela
 -->
 
 ## Tipo de trabalho
