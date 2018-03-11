@@ -28,7 +28,7 @@
 
 ## Localidade
 
-<!-- Cite a cidade onde mora e se aceita mudança para outro lugar em função do emprego. -->
+<!-- Cite a cidade onde mora e se tem disponibilidade para mudança para outro lugar em função do emprego. -->
 
 ## Apresentação
 
