@@ -26,6 +26,10 @@
 
 <!-- José da Silva. -->
 
+## Apresentação
+
+<!-- Fale um pouco sobre você e seu histório -->
+
 ## Especialidades
 
 <!--
@@ -60,3 +64,7 @@
 ## Contato
 
 <!-- https://linkedin.com/in/SEU_USERNAME -->
+
+## Site
+
+<!-- coloque seu site/blog/portfólio caso desejar -->
