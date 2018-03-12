@@ -16,7 +16,7 @@ Um "ganha-ganha" pra todos =)
 ## Como se cadastrar?
 
 - Abra uma **issue** e, no título  desta _issue_, coloque o seu nome completo;
-- Preencha corretamente os dados pedidos no _template_ padrão;
+- Preencha corretamente os dados pedidos no _template_ padrão - o template aparece quando você cria uma nova issue :)
 - Aguarde alguma empresa entrar em contato.
 - Ao conseguir uma vaga, quem criou a _issue_ **deve fechar** a mesma
 (se não estiver em busca de outras oportunidades), e comentar se conseguiu
