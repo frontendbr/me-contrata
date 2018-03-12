@@ -19,8 +19,8 @@
   Veja que "Opção 2" está "selecionada", pois tem um "x" dentro dos colchetes.
   As outras opções não selecionadas ficam apenas com um espaço dentro dos
   colchetes.
-  
-  4) No esqueça de colocar cidade/estado no título, seguindo o padrão:
+
+  4) Não esqueça de colocar cidade/estado no título, seguindo o padrão:
   [São Paulo/SP] Maria Joaquina
   ============================
 -->
