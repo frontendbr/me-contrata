@@ -6,8 +6,8 @@
 
 ## Qual o objetivo?
 
-Nesse espaço, o profissional que está em busca de uma nova oportunidade no mercado,
-ou em busca de recolocação, irá cadastrar uma nova _issue_, com as informações
+Nesse espaço, a pessoa que está em busca de uma nova oportunidade no mercado,
+ou em busca de recolocação, irá cadastrar uma nova _issue_ com as informações
 necessárias para que empresas em busca de profissionais com o seu perfil
 possam entrar em contato.
 
@@ -15,16 +15,22 @@ Um "ganha-ganha" pra todos =)
 
 ## Como se cadastrar?
 
+<<<<<<< HEAD
 - Abra uma **issue** e, no título  desta _issue_, coloque o seu nome completo;
 - Preencha corretamente os dados pedidos no _template_ padrão - o template aparece quando você cria uma nova issue :)
+=======
+- Abra uma **issue** e, no título  desta _issue_, coloque a cidade/estado onde mora -
+entre colchetes - e o seu nome completo, assim: `[São Paulo/SP] Maria Joaquina`;
+- Preencha corretamente os dados pedidos no _template_ padrão;
+>>>>>>> 768820569b1565f1fc15d77affc6cfec3337bfee
 - Aguarde alguma empresa entrar em contato.
 - Ao conseguir uma vaga, quem criou a _issue_ **deve fechar** a mesma
 (se não estiver em busca de outras oportunidades), e comentar se conseguiu
-ou não o emprego à partir desse repositório.
+ou não o emprego a partir desse repositório.
 
-## Sou uma empresa. Como entrar em contato?
+## Sou uma empresa, ou preciso de alguém para um freela, como entrar em contato?
 
-Clicando na _issue_, você poderá visualizar o Linkedin do(a) profissional
+Clicando na _issue_, você poderá visualizar o Linkedin da pessoa
 para adicionar e entrar em contato.
 
 ## Licença
