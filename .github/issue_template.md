@@ -53,6 +53,7 @@
 ## Nível
 
 <!--
+- [ ] Estágio
 - [x] Júnior
 - [ ] Pleno
 - [ ] Sênior
@@ -61,7 +62,6 @@
 ## Tipo de contratação
 
 <!--
-- [ ] Estágio
 - [x] PJ
 - [ ] CLT
 - [ ] Freela
