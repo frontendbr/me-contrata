@@ -61,6 +61,7 @@
 ## Tipo de contratação
 
 <!--
+- [ ] Estágio
 - [x] PJ
 - [ ] CLT
 - [ ] Freela
