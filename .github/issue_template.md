@@ -19,6 +19,12 @@
   Veja que "Opção 2" está "selecionada", pois tem um "x" dentro dos colchetes.
   As outras opções não selecionadas ficam apenas com um espaço dentro dos
   colchetes.
+  
+  IMPORTANTE: Na opção selecionada, o "x" deve ser minúsculo, e não deve ter
+  espaços em branco dentro do colchetes. Ele precisa ficar exatamente assim: [x]
+  Para as outras opções não marcadas, deixe um espaço em branco no colchete, assim: [ ]
+  Para visualizar se está tudo correto, antes de publicar seu perfil, clique na 
+  aba "Preview".
 
   4) Não esqueça de colocar cidade/estado no título, seguindo o padrão:
   [São Paulo/SP] Maria Joaquina
