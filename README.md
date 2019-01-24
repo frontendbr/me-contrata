@@ -31,3 +31,16 @@ para adicionar e entrar em contato.
 ## Licença
 
 [MIT](/LICENSE) &copy; FrontendBR
+
+## Repositórios da Front-End Brasil
+
+- [Fórum](https://github.com/frontendbr/forum)
+- [Eventos](https://github.com/frontendbr/eventos)
+- [Vagas](https://github.com/frontendbr/vagas)
+- [Me Contrata](https://github.com/frontendbr/me-contrata)
+- [Compra e Venda](https://github.com/frontendbr/compra-e-venda)
+- [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
+- [Poste Mais!](https://github.com/frontendbr/poste-mais)
+- [Open Source](https://github.com/frontendbr/open-source)
+- [Front-End Week](https://github.com/frontendbr/frontendweek)
+- [Sugestões](https://github.com/frontendbr/sugestoes)
