@@ -49,9 +49,11 @@
 
 ## Especialidades
 
+<!-- Coloque suas especialidades na ordem da mais experiente para a menos experiente colocando o grau de vivência quando relevante. Veja exemplo abaixo.-->
+
 <!--
-- JavaScript
-- HTML
+- JavaScript (3+ anos)
+- HTML (1.5+ anos)
 - CSS
 - PHP
 -->
