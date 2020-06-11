@@ -31,7 +31,8 @@
 
 ## Localidade
 
-<!-- Cite a cidade / estado onde mora atualmente. -->
+<!-- Cidade / estado onde mora atualmente, por extenso seguindo esse padrão: Cidade - Estado
+-->
 
 ## Apresentação
 
