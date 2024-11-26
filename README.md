@@ -36,9 +36,7 @@ ou não o emprego a partir desse repositório.
 
 ## Nosso Website
 
-Quer explorar os desenvolvedores cadastrados de uma forma mais interativa e intuitiva? Acesse nosso site e veja perfis incríveis. Clique agora e descubra talentos que fazem a diferença!
-
-[Site](https://me-contrata.vercel.app/)
+Quer explorar desenvolvedores cadastrados de uma forma mais interativa e intuitiva? [Acesse nosso site](https://me-contrata.vercel.app/) e veja e descubra talentos que fazem a diferença!
 
 ## Licença
 
